@@ -1,0 +1,15 @@
+{
+    "name": "uuu9/health",
+    "authors": [
+        {
+            "name": "zhw",
+            "email": "980334125@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+	      "Uuu9\\Health\\": "src/"
+		}
+    },
+    "require": {}
+}
